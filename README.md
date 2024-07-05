@@ -1,3 +1,5 @@
+# i made this when i was horrible at coding
+
 
 # Roblox Autobuy
 
